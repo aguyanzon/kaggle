@@ -1,0 +1,115 @@
+SalePrice: el precio de venta de la propiedad en dólares. Esta es la variable objetivo que está tratando de predecir.
+MSSubClass: la clase de construcción.
+MSZoning: la clasificación general de zonificación.
+LotFrontage: pies lineales de calle conectados a la propiedad.
+LotArea: Tamaño del lote en pies cuadrados.
+Street: Tipo de acceso por carretera.
+Alley: Tipo de acceso al callejón.
+LotShape: forma general de la propiedad.
+LandContour: Planitud de la propiedad.
+Utilities: tipo de utilidades disponibles.
+LotConfig: configuración del lote.
+LandSlope: Pendiente de la propiedad.
+Neighborhood: Ubicaciones físicas dentro de los límites de la ciudad de Ames.
+Condition1: Proximidad a la carretera principal o al ferrocarril.
+Condition2: Proximidad a la carretera principal o al ferrocarril (si hay un segundo).
+BldgType: Tipo de vivienda.
+HouseStyle: estilo de vivienda.
+OverallQual: Material general y calidad de acabado.
+OverallCond: Calificación de estado general.
+YearBuilt: fecha de construcción original.
+YearRemodAdd: fecha de remodelación.
+RoofStyle: Tipo de techo.
+RoofMatl: material del techo.
+Exterior1st: Revestimiento exterior de la casa.
+Exterior2nd: Revestimiento exterior de la casa (si hay más de un material).
+MasVnrType: tipo de chapa de mampostería.
+MasVnrArea: Área de revestimiento de mampostería en pies cuadrados.
+ExterQual: Calidad del material exterior.
+ExterCond: Estado actual del material en el exterior.
+Foundation: Tipo de fundación.
+BsmtQual: Altura del sótano.
+BsmtCond: Estado general del sótano.
+BsmtExposure: Paredes de sótano a nivel de jardín o de salida.
+BsmtFinType1: Calidad del área terminada del sótano.
+BsmtFinSF1: pies cuadrados terminados tipo 1.
+BsmtFinType2: Calidad de la segunda área terminada (si está presente).
+BsmtFinSF2: pies cuadrados con acabado tipo 2.
+BsmtUnfSF: pies cuadrados sin terminar de área del sótano.
+TotalBsmtSF: Total de pies cuadrados de área del sótano.
+Heating: Tipo de calefacción.
+HeatingQC: calidad y estado de la calefacción.
+CentralAir: aire acondicionado central.
+Electrical: Sistema eléctrico.
+1stFlrSF: pies cuadrados del primer piso.
+2ndFlrSF: pies cuadrados del segundo piso.
+LowQualFinSF: pies cuadrados con acabado de baja calidad (todos los pisos).
+GrLivArea: pies cuadrados de área habitable sobre el nivel (suelo).
+BsmtFullBath: Baños completos en el sótano.
+BsmtHalfBath: Medios baños en el sótano.
+FullBath: baños completos sobre rasante.
+HalfBath: Medios baños sobre el nivel del suelo.
+Bedroom: número de dormitorios sobre el nivel del sótano.
+Kitchen: Número de cocinas.
+KitchenQual: Calidad de la cocina.
+TotRmsAbvGrd: Total de habitaciones sobre rasante (no incluye baños).
+Functional: clasificación de funcionalidad del hogar.
+Fireplaces: Número de chimeneas.
+FireplaceQu: Calidad de chimenea.
+GarageType: Ubicación del garaje.
+GarageYrBlt: año en que se construyó el garaje.
+GarageFinish: Acabado interior del garaje.
+GarageCars: Tamaño del garaje en capacidad de automóvil.
+GarageArea: Tamaño del garaje en pies cuadrados.
+GarageQual: Calidad de garaje.
+GarageCond: Estado del garaje.
+PavedDrive: entrada pavimentada.
+WoodDeckSF: Área de la plataforma de madera en pies cuadrados.
+OpenPorchSF: Área de porche abierto en pies cuadrados.
+EnclosedPorch: área de porche cerrado en pies cuadrados.
+3SsnPorch: área de porche de tres estaciones en pies cuadrados.
+ScreenPorch: Área del porche de la pantalla en pies cuadrados.
+PoolArea: Área de la piscina en pies cuadrados.
+PoolQC: Calidad de la piscina.
+Fence: calidad de la valla.
+MiscFeature: característica miscelánea no cubierta en otras categorías.
+MiscVal: $ Valor de la función miscelánea.
+MoSold: Mes vendido.
+YrSold: año vendido.
+SaleType: Tipo de venta.
+SaleCondition: Condición de venta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
